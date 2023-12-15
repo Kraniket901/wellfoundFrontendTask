@@ -10,7 +10,7 @@ const logos = [logo1, logo2, logo3, logo4, logo5, logo6];
 
 const Section1 = () => {
   return (
-    <div className='py-16 lg:py-48 px-3 bg-gradient-to-b from-[#e9d4ff66] via-[#ffffff] to-[#ffffff]' id="hero">
+    <div className='py-16 lg:py-48 px-3 lg:px-10 bg-gradient-to-b from-[#e9d4ff66] via-[#ffffff] to-[#ffffff]' id="hero">
       <div className='flex flex-col justify-center items-center pb-16'>
         <h1 className='text-4xl lg:text-8xl font-bold text-[#1F2937] text-center py-3'>
           Elevate Your Presence with Seamless Design and Innovation.
