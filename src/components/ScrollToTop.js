@@ -2,7 +2,7 @@ import React from 'react'
 
 const ScrollToTop = () => {
   return (
-    <div className='rounded-full border-2 border-[#37415166] fixed bottom-[20px] right-[20px] bg-[#e7d0ffe2] z-20 p-2'>
+    <a className='rounded-full border-2 border-[#37415166] fixed bottom-[20px] right-[20px] bg-[#e7d0ffe2] z-20 p-2 cursor-pointer' href='#hero'>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"
@@ -18,7 +18,7 @@ const ScrollToTop = () => {
           d="M5 10l7-7m0 0l7 7m-7-7v18"
         ></path>
       </svg>
-    </div>
+    </a>
   )
 }
 
