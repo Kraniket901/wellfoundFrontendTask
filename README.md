@@ -7,5 +7,11 @@
 5. npm install
 6. npm run start
 
+## Folder Structure
+
+1. assets : Contains logos and icons
+2. components : Contains Navbar, Footer & ScollToTop Components
+3. sections : Section1 to Section7
+
 ### Deployed Link :
 [Click Here](https://wellfound-frontend-task.netlify.app/)
